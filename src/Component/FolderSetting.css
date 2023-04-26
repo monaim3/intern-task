@@ -1,0 +1,19 @@
+.pass{
+    position: relative;  
+
+}
+.passicon{
+ position: absolute;  
+ top: 58%;
+ left: 43%; 
+ right: 0;
+}
+.saveBtn{
+    color: #13d453;
+    background-color: #77c29080;
+    opacity: 0.9;
+    padding: 4px 20px;
+    border: none;
+    margin-left: 5rem;
+    margin-top: 1px;
+}

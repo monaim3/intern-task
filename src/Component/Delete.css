@@ -1,0 +1,15 @@
+.deletearea{
+    width: 95%;
+    margin: 0 auto;
+    text-align: center;
+}
+.cancel{
+    margin-left: 10%!important;
+}
+.dltbtn{
+    color: #d10f2c;
+    background-color: #ac283c90;
+    padding: 5px 40px;
+    border: none;
+   font-weight: bold;
+}
